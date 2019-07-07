@@ -1,1 +1,1 @@
-This is Retro Snaker game writed by python and mainly realized by OpenGL.
+This is Retro Snaker game writed by python and mainly realized by OpenGL. You can play this game by your keyboard.
